@@ -9,3 +9,7 @@ class BelfoldiJarat(Jarat):
 
     def get_vegso_ar(self):
         return self.jegyar * (1 - self.kedvezmeny)
+
+    def frissit_kapacitast(self, uj_kapacitas):
+
+        pass

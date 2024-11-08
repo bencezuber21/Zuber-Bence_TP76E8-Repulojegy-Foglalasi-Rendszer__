@@ -9,3 +9,7 @@ class NemzetkoziJarat(Jarat):
 
     def get_vegso_ar(self):
         return self.jegyar + self.biztositas
+
+    def igenyel_beszallast(self, utas_nev):
+
+        pass

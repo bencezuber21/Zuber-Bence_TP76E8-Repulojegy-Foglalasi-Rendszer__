@@ -8,3 +8,7 @@ class LegiTarsasag:
 
     def jaratok_listazasa(self):
         return self.jaratok
+
+    def get_osszes_utasszam(self):
+
+        pass
